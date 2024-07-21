@@ -11,3 +11,6 @@ W
 +src/test/java/org/example/SolutionTest.java,1\8\18587dee2bc21ccd53cd65fb27f0896826624d21
 d
 4src/main/java/org/example/LettersWordsException.java,8\c\8cfb7cc57695c641deb63ba54acfb6304c42db8f
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
